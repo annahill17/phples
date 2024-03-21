@@ -6,13 +6,12 @@
     <title>Document</title>
 </head>
 <body>
-<form method="GET">
-    <input type="text" name="person">
-    <button>SUBMIT</button>
-</form> 
+
 <?php
-   $name = $_GET['person'];
-   echo $name." is very pretty and very funny";
+    //This is a test to see if the comments are hidden
+    /*echo "Hi";
+    echo  "Anna";
+    echo "This is fun";*/
 ?>
 </body>
 </html>
