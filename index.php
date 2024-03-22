@@ -6,27 +6,12 @@
     <title>Document</title>
 </head>
 <body>
-    
+
 <?php
-
-//string 
-$name = 'I think coding is very fun and a very interesting thing to learn';
-
-//Integer
-$name = 15;
-
-//Float
-$name = 14.3522;
-
-//Boolean
-
-
-//Array
-$names = array("Anna","Libby","Amy");
-echo $names['2']
-
+    //This is a test to see if the comments are hidden
+    /*echo "Hi";
+    echo  "Anna";
+    echo "This is fun";*/
 ?>
-
 </body>
-
 </html>
