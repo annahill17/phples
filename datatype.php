@@ -19,7 +19,8 @@ $name = 15;
 $name = 14.3522;
 
 //Boolean
-
+true = 1
+false = 0
 
 //Array
 $names = array("Anna","Libby","Amy");
