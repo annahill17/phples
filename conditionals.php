@@ -9,22 +9,23 @@
     
 <?php
 
-$x = 3;
+$x = 8;
 
-if ($x == 1) {
-    echo "Anna is very pretty!";
-} 
-elseif($x == 2) {
-    echo "Anna is really great!";
-}
-elseif($x == 3) {
-    echo "Anna is kinda cool!";
-}
-elseif($x == 4) {
-    echo "Anna is awesome!";
-}
-else {
-    echo "Anna is very weird!";
+switch ($x) {
+    case 10:
+        echo "The answer is 10";
+    break;
+    case 15:
+        echo "The answer is 15";
+    break;
+    case 6:
+        echo "The answer is 6";
+    break;
+    case 8:
+        echo "The answer is 8";
+    break;
+    default:
+        echo "There is no answer";
 }
 
 ?>
