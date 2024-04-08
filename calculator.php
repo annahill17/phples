@@ -12,7 +12,7 @@
   <?php
     include 'includes/header.php';
 ?>
-    <h1>Hello, world!</h1>
+    <h1>Hello!</h1>
     <form>
     <input type="text" name="num1" placeholder="Number 1">
     <input type="text" name="num2" placeholder="Number 2">

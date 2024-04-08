@@ -1,3 +1,4 @@
+
 <!doctype html>
 <html lang="en">
   <head>
@@ -11,7 +12,6 @@
   <?php
     include 'includes/header.php';
 ?>
-    <h1>Hello, world!</h1>
     <?php
     //This is a test to see if the comments are hidden
     /*echo "Hi";

@@ -1,4 +1,5 @@
 
+
 <!doctype html>
 <html lang="en">
   <head>
@@ -12,7 +13,7 @@
   <?php
     include 'includes/header.php'
 ?>
-    <h1>Hello, world!</h1>
+    <h1>Hello!</h1>
     <?php
 //Loop
 

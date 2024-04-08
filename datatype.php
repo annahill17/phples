@@ -1,4 +1,5 @@
 
+
 <!doctype html>
 <html lang="en">
   <head>
@@ -12,7 +13,7 @@
   <?php
     include 'includes/header.php';
 ?>
-    <h1>Hello, world!</h1>
+    <h1>Hello!</h1>
     <?php
 
 //string 
@@ -25,8 +26,8 @@ $name = 15;
 $name = 14.3522;
 
 //Boolean
-true = 1
-false = 0
+//true = 1
+//false = 0
 
 //Array
 $names = array("Anna","Libby","Amy");
