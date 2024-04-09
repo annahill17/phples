@@ -11,7 +11,7 @@
   </head>
   <body>
   <?php
-    include 'includes/header.php'
+    include 'includes/header.php';
 ?>
     <h1>Hello!</h1>
     <?php

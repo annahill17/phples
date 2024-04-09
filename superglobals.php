@@ -19,11 +19,6 @@
 setcookie("name", "Anna", time() + 172800);
 
 $_SESSION['name'] = "18";
-
-
-
-
-
 ?>
 
 
